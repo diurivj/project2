@@ -18,4 +18,4 @@
 * [Rafel González & Eduardo Mijangos](#rafael-gonzález-&-eduardo-mijangos)
 
 ## Lili Cadena & Felipe Vallina
-  * :computer: [hola](http://google.com.mx){:target="_blank"}
+  * :computer: <a href="http://www.google.com" target="_blank">hola</a>
